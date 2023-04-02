@@ -1,0 +1,21 @@
+district,city,price (in EUR),size (in m^2),balcony,terrace,built_in_kitchen,garden,elevator,guestWC,basement,WG
+ HafenCity, Hamburg,2995,166,1,1,1,0,0,0,0,0
+ Stellingen, Hamburg,2395,126,1,1,1,0,0,0,1,0
+ Lurup, Hamburg,1650,93,1,1,1,0,0,1,0,0
+ Lurup, Hamburg,1950,113,1,1,1,0,0,1,0,0
+ Ottensen, Hamburg,3300,164,0,0,1,0,0,1,1,0
+ Rissen, Hamburg,1740,104,1,1,1,0,0,0,1,0
+ Harvestehude, Hamburg,4385,208,1,1,1,0,0,1,0,0
+ Neustadt, Hamburg,1599,131,1,1,1,0,0,0,1,0
+ Rotherbaum, Hamburg,4220,185,1,1,0,0,1,0,0,0
+ Poppenbüttel, Hamburg,1400,140,1,1,1,0,0,0,0,0
+ Langenhorn, Hamburg,133391,90,1,1,1,0,0,0,1,0
+ Osdorf, Hamburg,4250,230,1,1,0,1,0,0,1,0
+ Altona-Altstadt, Hamburg,3978,183,1,1,1,0,0,1,0,0
+ Wilstorf, Hamburg,1200,116,1,1,1,0,0,0,1,0
+ Othmarschen, Hamburg,1285,45,0,0,0,0,0,0,0,0
+ Bergedorf (Ortsteil), Hamburg,1200,93,1,1,1,0,0,0,1,0
+ Alsterdorf, Hamburg,1701,111,1,1,1,0,0,0,1,0
+ Groß Flottbek, Hamburg,2150,110,1,1,0,0,1,0,0,0
+ Uhlenhorst, Hamburg,3850,147,1,1,1,0,0,0,1,0
+ Blankenese, Hamburg,1178,90,1,1,1,0,0,0,0,0

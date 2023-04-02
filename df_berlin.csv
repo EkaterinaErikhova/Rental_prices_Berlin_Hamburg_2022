@@ -1,0 +1,81 @@
+district,city,price (in EUR),size (in m^2),balcony,terrace,built_in_kitchen,garden,elevator,guestWC,basement,WG
+ Kreuzberg, Berlin,2300,94,1,1,1,0,0,0,0,0
+ Mitte (Ortsteil), Berlin,2100,57,0,0,0,0,0,0,0,0
+ Niederschöneweide, Berlin,735,38,0,0,0,0,0,0,0,0
+ Moabit, Berlin,2150,141,1,1,1,0,0,0,0,0
+ Charlottenburg, Berlin,1100,38,0,0,0,0,0,0,0,0
+ Rudow, Berlin,206640,137,0,0,1,0,0,0,0,0
+ Lichterfelde, Berlin,175750,95,1,1,1,0,0,0,0,0
+ Friedrichshain, Berlin,2500,130,1,1,1,1,0,0,0,0
+ Westend, Berlin,2237,174,1,1,1,0,0,1,0,0
+ Neu-Hohenschönhausen, Berlin,73166,90,1,1,0,0,1,0,0,0
+ Lichterfelde, Berlin,2000,140,1,1,1,1,0,0,0,0
+ Wilmersdorf, Berlin,3614,190,1,1,1,0,1,0,0,0
+ Mitte (Ortsteil), Berlin,233802,130,0,0,0,0,0,0,1,0
+ Mitte (Ortsteil), Berlin,2350,106,1,1,1,0,1,0,0,0
+ Friedrichshain, Berlin,2432,121,0,0,0,0,0,0,0,0
+ Friedrichshagen, Berlin,2360,155,1,1,1,0,0,0,1,0
+ Schöneberg, Berlin,4500,165,1,1,1,0,1,0,0,0
+ Köpenick, Berlin,3200,220,0,0,1,0,1,0,0,0
+ Moabit, Berlin,1022,95,1,1,1,0,0,0,1,0
+ Kreuzberg, Berlin,363630,213,1,1,1,0,0,0,1,0
+ Buckow, Berlin,1600,125,0,0,1,1,0,0,0,0
+ Charlottenburg, Berlin,2700,130,1,1,1,0,0,0,1,0
+ Charlottenburg, Berlin,2684,134,1,1,1,0,0,0,0,0
+ Charlottenburg, Berlin,2500,195,0,0,1,0,0,1,1,0
+ Kladow, Berlin,155615,115,0,0,0,0,0,0,0,0
+ Schöneberg, Berlin,2250,108,1,1,1,0,0,0,1,0
+ Mahlsdorf, Berlin,2800,125,1,1,1,1,0,0,0,0
+ Schmargendorf, Berlin,3500,176,0,0,1,0,0,0,1,0
+ Köpenick, Berlin,1625,125,0,0,1,0,0,0,0,0
+ Friedenau, Berlin,3200,120,1,1,1,0,0,1,0,0
+ Mitte (Ortsteil), Berlin,231196,100,1,1,1,0,0,0,1,0
+ Mitte (Ortsteil), Berlin,2950,146,1,1,1,0,0,0,1,0
+ Tiergarten, Berlin,3200,90,1,1,1,0,1,0,0,0
+ Wilmersdorf, Berlin,1230,115,1,1,0,0,0,0,0,0
+ Mitte (Ortsteil), Berlin,2980,93,1,1,1,1,0,0,0,0
+ Grunewald, Berlin,3600,180,1,1,0,1,0,0,1,0
+ Moabit, Berlin,653,42,0,0,0,0,0,0,0,0
+ Frohnau, Berlin,1998,127,1,1,0,1,0,0,1,0
+ Nikolassee, Berlin,2961,235,1,1,1,1,0,0,0,0
+ Kreuzberg, Berlin,2800,127,1,1,1,0,0,0,1,0
+ Friedrichshain, Berlin,249228,138,0,0,1,0,0,1,1,0
+ Friedrichshagen, Berlin,2950,100,1,1,1,1,0,0,0,0
+ Grünau, Berlin,1720,108,1,1,1,0,0,1,0,0
+ Schmargendorf, Berlin,2350,111,1,1,1,0,0,0,1,0
+ Baumschulenweg, Berlin,1734,115,1,1,0,0,0,0,1,0
+ Schöneberg, Berlin,1000,105,1,1,1,1,0,0,0,0
+ Wilmersdorf, Berlin,900,96,1,1,0,0,0,0,1,0
+ Wilmersdorf, Berlin,2335,101,1,1,1,0,0,0,1,0
+ Zehlendorf, Berlin,2345,134,1,1,1,1,0,0,0,0
+ Kreuzberg, Berlin,2050,115,1,1,1,1,0,0,0,0
+ Kreuzberg, Berlin,974,97,1,1,0,0,1,0,0,0
+ Prenzlauer Berg, Berlin,304749,95,1,1,0,0,1,0,0,0
+ Kreuzberg, Berlin,974,97,1,1,0,0,1,0,0,0
+ Mitte (Ortsteil), Berlin,4000,100,1,1,1,1,0,0,0,0
+ Westend, Berlin,148396,101,1,1,0,0,1,0,0,0
+ Schöneberg, Berlin,1190,90,1,1,1,0,0,0,1,0
+ Mitte (Ortsteil), Berlin,8858,328,0,0,1,0,0,1,1,0
+ Grunewald, Berlin,3940,221,1,1,1,0,0,0,1,0
+ Schöneberg, Berlin,500,90,0,0,0,0,0,0,0,0
+ Pankow (Ortsteil), Berlin,950,90,1,1,0,0,1,0,0,0
+ Mitte (Ortsteil), Berlin,1200,111,0,0,0,0,0,0,0,0
+ Halensee, Berlin,13500,361,1,1,1,0,0,0,1,0
+ Mitte (Ortsteil), Berlin,4200,206,1,1,1,0,0,0,1,0
+ Friedrichshain, Berlin,850,93,0,0,0,0,0,0,0,0
+ Schöneberg, Berlin,600,94,0,0,0,0,0,0,0,0
+ Schöneberg, Berlin,2610,174,1,1,0,0,0,0,0,0
+ Friedrichshain, Berlin,2400,123,1,1,1,0,0,0,1,0
+ Charlottenburg, Berlin,1100,110,0,0,0,0,0,0,0,0
+ Prenzlauer Berg, Berlin,3500,150,1,1,1,0,0,1,0,0
+ Moabit, Berlin,2529,134,1,1,1,0,0,0,1,0
+ Mitte (Ortsteil), Berlin,1052,105,1,1,1,0,0,0,1,0
+ Wilmersdorf, Berlin,1047,105,0,0,1,0,1,1,0,0
+ Kreuzberg, Berlin,600,100,0,0,0,0,0,0,1,0
+ Charlottenburg, Berlin,3310,107,1,1,1,0,0,1,0,0
+ Prenzlauer Berg, Berlin,2000,119,1,1,1,0,0,0,1,0
+ Schöneberg, Berlin,1540,111,0,0,1,0,0,1,1,0
+ Lichterfelde, Berlin,1690,105,1,1,0,0,0,1,1,0
+ Prenzlauer Berg, Berlin,1208,130,1,1,0,0,0,0,0,0
+ Charlottenburg, Berlin,2395,94,1,1,1,0,0,0,1,0
+ Baumschulenweg, Berlin,866,100,0,0,0,0,0,0,0,0
