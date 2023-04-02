@@ -1,0 +1,243 @@
+{'display': 'NEUVoll möbliertes, stilvolles 3-Zimmer-Traumappartement im alten Kesselhaus !!'}
+{'display': ''}
+{'display': 'B.PLACE Living'}
+{'display': 'Three Berlin'}
+{'display': 'Moderne Dachgeschosswohnung mit Ost-Terrasse'}
+{'display': ''}
+{'display': 'No. 1 Charlottenburg'}
+{'display': 'Willkommen in Rudow: Modernes Einfamilienreihenhaus ab sofort frei !'}
+{'display': ''}
+{'display': 'NEUExklusiv vorab - Bilder folgen! Jetzt als Interessent vormerken!'}
+{'display': 'NEUBefristet: 4 Zimmer Familienwohnung mit Terrasse, Garten und Klavier in bester Lage in F-Hain'}
+{'display': 'NEUTraumhafte Altbauwohnung! Ku´damm Lage! Balkon, Loggia, Stuck, Parkett..'}
+{'display': 'NEUSmarter Wohnen: geräumige 4-Zimmer-Wohnung'}
+{'display': 'Schöne 4 Zimmerwohnung in Lichterfelder Villa, mit Balkon und Wintergarten'}
+{'display': 'NEUWohnen direkt am Rüdesheimer Platz!!'}
+{'display': 'Schöne Altbauwohnung in bester Lage in Berlin-Mitte'}
+{'display': 'WG-tauglich: Moderne, schicke 3-Zimmer Wohnung mit tollem Südbalkon direkt am Alex'}
+{'display': 'Krachtstraße 8 in 10245 Berlin'}
+{'display': 'NEUExklusive Wohnung in direkter Wasserlage!'}
+{'display': 'Wunderschöne 3,5 Zimmer Wohnung im Herzen Schönebergs!'}
+{'display': 'Penthouse - direkt an der Dahme -'}
+{'display': 'Teilmöblierte 3-Zimmerwohnung in ruher Tiegartenlage-Zeitmietvertrag für drei Jahre!'}
+{'display': 'NEUX-Berg - Liebe a.d.1.Blick! Nahe Oranienplatz-Luxus DG m. Weitblick! Nur f. sportliche Menschen!'}
+{'description': '2.300 €\nKaltmiete\n94 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbauküche...'}
+{'description': '2.100 - 4.600 €\nKaltmiete\n57,00 - 320,00 m²\nWohnfläche\n01.08.2022\nBezugsfrei ab\nZum Projekt'}
+{'description': '735 - 1.500 €\nKaltmiete\n38,70 - 100,60 m²\nWohnfläche\n01.11.2022\nBezugsfrei ab\nZum Projekt'}
+{'description': '2.150 €\nKaltmiete\n141 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbauküche'}
+{'description': '1.100 - 5.800 €\nKaltmiete\n38,00 - 144,00 m²\nWohnfläche\nJetzt\nBezugsfrei ab\nZum Projekt'}
+{'description': '2.066,40 €\nKaltmiete\n137,76 m²\nWohnfläche\n5\nZi.\nEinbauküche'}
+{'description': '1.757,50 €\nKaltmiete\n95 m²\nWohnfläche\n3\nZi.\nNur hier gefundenBalkon/TerrasseEinbauküche...'}
+{'description': '2.500 €\nKaltmiete\n130 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '2.237 €\nKaltmiete\n174 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '731,66 €\nKaltmiete\n90,89 m²\nWohnfläche\n4,5\nZi.\nBalkon/TerrasseAufzug'}
+{'description': '2.000 €\nKaltmiete\n140 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '3.614 €\nKaltmiete\n190,13 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheAufzug'}
+{'description': '2.338,02 €\nKaltmiete\n130 m²\nWohnfläche\n3\nZi.\nKeller'}
+{'description': '2.350 €\nKaltmiete\n106,7 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheAufzug'}
+{'description': '2.432 - 4.659 €\nKaltmiete\n121,59 - 291,18 m²\nWohnfläche\n01.06.2022\nBezugsfrei ab\nZum Projekt'}
+{'description': '2.360 €\nKaltmiete\n155 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '4.500 €\nKaltmiete\n165 m²\nWohnfläche\n3,5\nZi.\nBalkon/TerrasseEinbaukücheAufzug'}
+{'description': '3.200 €\nKaltmiete\n220 m²\nWohnfläche\n3\nZi.\nEinbaukücheAufzug'}
+{'description': '1.022 €\nKaltmiete\n95 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '3.636,30 €\nKaltmiete\n213 m²\nWohnfläche\n6\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'adress': 'Eberhard-Roters-Platz 13, Kreuzberg, Berlin'}
+{'adress': 'Cora-Berliner-Straße 2-4, Mitte (Ortsteil), Berlin'}
+{'adress': 'Hartriegelstraße 130, Niederschöneweide, Berlin'}
+{'adress': 'Rathenower Straße 30, Moabit, Berlin'}
+{'adress': 'Wegelystraße 6, Charlottenburg, Berlin'}
+{'adress': 'Köpenicker Str. 149f, Rudow, Berlin'}
+{'adress': 'Lichterfelde, Berlin'}
+{'adress': 'Friedrichshain, Berlin'}
+{'adress': 'Konstanzer Straße 3, Westend, Berlin'}
+{'adress': 'Falkenberger Chaussee 140, Neu-Hohenschönhausen, Berlin'}
+{'adress': 'Lichterfelde, Berlin'}
+{'adress': 'Rüdesheimer Straße 2, Wilmersdorf, Berlin'}
+{'adress': 'Tucholskystr. 41, Mitte (Ortsteil), Berlin'}
+{'adress': 'Mollstraße 3b, Mitte (Ortsteil), Berlin'}
+{'adress': 'Krachtstraße 8, Friedrichshain, Berlin'}
+{'adress': 'Friedrichshagen, Berlin'}
+{'adress': 'Schöneberg, Berlin'}
+{'adress': 'Wendenschlossstraße 312a, Köpenick, Berlin'}
+{'adress': 'Moabit, Berlin'}
+{'adress': 'Kreuzberg, Berlin'}
+{'display': 'Schöne 5-Zimmer Wohnung im grünen Berlin-Buckow zu vermieten.'}
+{'display': 'NEU"VOLLMÖBLIERTE" Top DG Maisonette in Bestlage Charlottenburg "zeitlich befristet" zu vermieten..'}
+{'display': 'NEUSofort verfügbar - neuwertiger Zustand I Küche I Garage I 2 Bäder'}
+{'display': 'NEUREPRAESENTATIVE ALTERBAUWOHNUNG IN BELIEBTER LAGER VON CHARLOTTENBURG'}
+{'display': 'NEUQuartier Zwei - 3 Zimmer Wohnung in der nähe vom Wannsee mit 3 Balkonen.'}
+{'display': 'NEUSchöner Wohnen im schönen Schöneberg - 3 Zimmer mit Balkon'}
+{'display': 'Traumhaftes Haus mit Garten sucht neuen Mieter mit grünem Daumen'}
+{'display': 'NEULuxuswohnung im Erdgeschoss einer repräsentativen Stadtvilla mit Terrasse u. TG-Stellplatz'}
+{'display': '3-Zimmer Apartment in der Köpenicker Innenstadt!'}
+{'display': 'Wunderschöne 3,5 Zimmer Altbau Traumwohnung für 1 Jahr zu vermieten - zentral in Friedenau !'}
+{'display': 'NEUTerrassenwohnung vom Feinsten!'}
+{'display': 'NEUExklusive 4-Zimmer-Wohnung im Berliner Scheuenviertel'}
+{'display': 'Hochwertig ausgestattete 3 Zimmer Wohnung in direkter Umgebung des Potsdamer Platz & Nollendorfplatz'}
+{'display': 'NEUWohnungstausch: Johannisberger Straße 82'}
+{'display': 'NEUExklusiv möbliertes, lichtdurchflutetes Appartement im GRANDAIR-Neubau in Berlins Mitte'}
+{'display': 'Exclusive flat in Berlin Grunewald for 2 persons'}
+{'display': 'Urbanly'}
+{'display': 'Gut geschnittene Maisonettewohnung mit Terrasse, ideal auch für Familien mit Kindern'}
+{'display': 'Außergewöhnliches Penthouse an der Rehwiese - für Genießer und Sonnenanbeter!'}
+{'display': 'ZWEITBEZUG! NEU AUSGEBAUTE, TRAUMHAFTE DACHGESCHOßWOHNUNG MIT 2 TERRASSEN, EBK, 2 BÄDER, KLIMA'}
+{'description': '1.600 €\nKaltmiete\n125 m²\nWohnfläche\n5\nZi.\nEinbaukücheGartenWG-geeignet'}
+{'description': '2.700 €\nKaltmiete\n130 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '2.684 €\nKaltmiete\n134,2 m²\nWohnfläche\n3\nZi.\nNur hier gefundenBalkon/TerrasseEinbauküche...'}
+{'description': '2.500 €\nKaltmiete\n195 m²\nWohnfläche\n6\nZi.\nEinbaukücheKellerGäste-WC...'}
+{'description': '1.556,15 €\nKaltmiete\n115,27 m²\nWohnfläche\n3\nZi.'}
+{'description': '2.250 €\nKaltmiete\n108,23 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '2.800 €\nKaltmiete\n125 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '3.500 €\nKaltmiete\n176 m²\nWohnfläche\n3\nZi.\nEinbaukücheKeller'}
+{'description': '1.625 €\nKaltmiete\n125 m²\nWohnfläche\n3\nZi.\nEinbauküche'}
+{'description': '3.200 €\nKaltmiete\n120 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC'}
+{'description': '2.311,96 €\nKaltmiete\n100,51 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '2.950 €\nKaltmiete\n146,73 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '3.200 €\nKaltmiete\n90 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheAufzug'}
+{'description': '1.230 €\nKaltmiete\n115 m²\nWohnfläche\n3\nZi.\nBalkon/Terrasse'}
+{'description': '2.980 €\nKaltmiete\n93 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '3.600 €\nKaltmiete\n180 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseGartenKeller...'}
+{'description': '653 - 2.350 €\nKaltmiete\n42,00 - 120,00 m²\nWohnfläche\n1.07.2022\nBezugsfrei ab\nZum Projekt'}
+{'description': '1.998 €\nKaltmiete\n127 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseGartenKeller...'}
+{'description': '2.961 €\nKaltmiete\n235 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '2.800 €\nKaltmiete\n127,88 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'adress': 'Buckow, Berlin'}
+{'adress': 'Charlottenburg, Berlin'}
+{'adress': 'Zillestr. 50, Charlottenburg, Berlin'}
+{'adress': 'Fritschestr. 65, Charlottenburg, Berlin'}
+{'adress': 'Kladow, Berlin'}
+{'adress': 'Schöneberg, Berlin'}
+{'adress': 'Landvogtstr. 35, Mahlsdorf, Berlin'}
+{'adress': 'Schmargendorf, Berlin'}
+{'adress': 'Parrisiusstraße 2, Köpenick, Berlin'}
+{'adress': 'Albestraße 19, Friedenau, Berlin'}
+{'adress': 'Beuthstraße 14, Mitte (Ortsteil), Berlin'}
+{'adress': 'Sophienstrasse 26/27, Mitte (Ortsteil), Berlin'}
+{'adress': 'Schönegarten 5, Tiergarten, Berlin'}
+{'adress': 'Johannisberger Straße 82, Wilmersdorf, Berlin'}
+{'adress': 'Mitte (Ortsteil), Berlin'}
+{'adress': 'Grunewald, Berlin'}
+{'adress': 'Beusselstraße 31A, Moabit, Berlin'}
+{'adress': 'Hangweg 3, Frohnau, Berlin'}
+{'adress': 'Nikolassee, Berlin'}
+{'adress': 'Schlesiche Str. 9, Kreuzberg, Berlin'}
+{'display': 'NEUGroßzügiges DG im" Friedelhainer Kiez", dem Himmel so nah!'}
+{'display': 'Absolut Traumhaft und Speziell am Müggelsee - direkte Wasserlage mit Badesteg und Bootsanlegeplatz'}
+{'display': 'Grünau! Geräumige 4 - Zimmerwohnung zu vermieten'}
+{'display': 'NEUFRANK IMMOBILIEN - Attraktive Neubau-Wohnung am Grunewald! Modern – stilvoll – sonnig – großzügig!'}
+{'display': 'Erstbezug nach Kernsanierung**Sonnige, großzügige Stuck- Altbauwohnung**Balkon**Parkett**'}
+{'display': 'NEUTauschwohnung: 3-Z renovierter Altbau (Decke 420cm, Stuck, Parkett) in SB'}
+{'display': 'Tauschwohnung: Biete 3-Zimmer Altbau Wilmersdorf/ Suche 4 Zimmer oder mehr'}
+{'display': 'NEUFasanenplatz - Erstbezug nach Sanierung: schöne 3-Zimmer-Wohnung mit EBK und Balkon'}
+{'display': 'NEUKOPIE: Sanierter Altbau in der Belle Etage'}
+{'display': '1,2 Jahre im luxus Kernsanierten Altbau in Szene-Kiez-Lage von Kreuzberg mit sonnigem Balkon'}
+{'display': 'NEUAusgefallene Architektur genießen...'}
+{'display': 'Dachgeschoß der Extraklasse am Kollwitzplatz!'}
+{'display': 'NEUAusgefallene Architektur genießen...'}
+{'display': 'Exclusive möblierte 3 Zimmer Design-Wohnung in Berlin-Mitte mit Delux Ausstattung'}
+{'display': 'NEUWestend! Exklusiver Altbau im Bauhausstil!'}
+{'display': 'Altbau, 3-Zimmer Wohnung mit Loggia in begrüntem Vorgarten'}
+{'display': 'Das Bauhaus: Ein Klassiker - wiederbelebt von Sir David Chipperfield'}
+{'display': 'beste Grunewald-Lage nah Wildpfad + elegantes Wohnen im 1. (obersten) OG + 4 Zi mit großer Terrasse'}
+{'display': 'NEUWohnungstausch: Kolonnenstraße 33'}
+{'display': 'NEUWohnungstausch: Greta-Garbo-Straße 16'}
+{'description': '2.492,28 €\nKaltmiete\n138,46 m²\nWohnfläche\n3\nZi.\nEinbaukücheKellerGäste-WC...'}
+{'description': '2.950 €\nKaltmiete\n100 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '1.720 €\nKaltmiete\n108,94 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '2.350 €\nKaltmiete\n111 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.734 €\nKaltmiete\n115 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseKeller'}
+{'description': '1.000 €\nKaltmiete\n105 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '900 €\nKaltmiete\n96 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseKeller'}
+{'description': '2.335 €\nKaltmiete\n101,48 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '2.345 €\nKaltmiete\n134 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '2.050 €\nKaltmiete\n115 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '974 €\nKaltmiete\n97,42 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseAufzug'}
+{'description': '3.047,49 €\nKaltmiete\n95,43 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseAufzug'}
+{'description': '974 €\nKaltmiete\n97,42 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseAufzug'}
+{'description': '4.000 €\nKaltmiete\n100 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '1.483,96 €\nKaltmiete\n101,7 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseAufzug'}
+{'description': '1.190 €\nKaltmiete\n90 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '8.858 €\nKaltmiete\n328 m²\nWohnfläche\n5\nZi.\nEinbaukücheKellerGäste-WC...'}
+{'description': '3.940 €\nKaltmiete\n221 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '500 €\nKaltmiete\n90 m²\nWohnfläche\n3\nZi.'}
+{'description': '950 €\nKaltmiete\n90 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseAufzug'}
+{'adress': 'Boxhagenerstrasse 108, Friedrichshain, Berlin'}
+{'adress': 'Müggelseedamm 276, Friedrichshagen, Berlin'}
+{'adress': 'Regattastraße 91, Grünau, Berlin'}
+{'adress': 'Schmargendorf, Berlin'}
+{'adress': 'Köpenicker Landstr 262, Baumschulenweg, Berlin'}
+{'adress': 'Schöneberg, Berlin'}
+{'adress': 'Wilmersdorf, Berlin'}
+{'adress': 'Wilmersdorf, Berlin'}
+{'adress': 'Zehlendorf, Berlin'}
+{'adress': 'Waldemarstraße 42, Kreuzberg, Berlin'}
+{'adress': 'Charlottenstraße 97b, Kreuzberg, Berlin'}
+{'adress': 'Rykestr. 50, Prenzlauer Berg, Berlin'}
+{'adress': 'Charlottenstraße 97b, Kreuzberg, Berlin'}
+{'adress': 'Alte Jakobstrasse 102, Mitte (Ortsteil), Berlin'}
+{'adress': 'Frankenallee 14, Westend, Berlin'}
+{'adress': 'Schöneberg, Berlin'}
+{'adress': 'Ziegelstraße 17 - WE 01, Mitte (Ortsteil), Berlin'}
+{'adress': 'Grunewald, Berlin'}
+{'adress': 'Kolonnenstraße 33, Schöneberg, Berlin'}
+{'adress': 'Greta-Garbo-Straße 16, Pankow (Ortsteil), Berlin'}
+{'display': 'NEUWohnungstausch: Schwartzkopffstraße 6'}
+{'display': 'EINMALIGES Architekten Maisonette Penthouse mit 360° Dachterrasse in Berlin Charlottenburg'}
+{'display': 'Luxuriöses Zuhause im Townhouse-Stil - Leben im CHARLIE LIVING!'}
+{'display': 'NEUWohnungstausch: Neue Bahnhofstraße 31'}
+{'display': 'NEUWohnungstausch: Belziger Str. 41'}
+{'display': 'TOLLE STUCK-ALTBAU-WHG. M. 5 ZIMMER U. GR. KÜCHENRAUM, ÖFEN, PARKETT UNWEIT POTSDAMER PL. FÜR 3 JAHR'}
+{'display': 'Modernstes Wohnen in Berlin-Friedrichshain: 3-Zimmer Dachgeschoss-Penthouse mit Terrasse und EBK'}
+{'display': 'NEUWohnungstausch: Pestalozzistraße 78'}
+{'display': 'NEULuxeriöse Penthouse Wohnung mit Blick zum Fernsehturm'}
+{'display': 'NEU4-Zimmer Traumwohnung mit Einbauküche & 2xTerrasse'}
+{'display': 'NEUTauschwohnung: 3,5 Zi in Mitte gegen 3,5 Zi Friedenau,Steglitz,Wilmersdorf'}
+{'display': 'NEUTauschwohnung: 4 Zi. Wilmersdorf/Ludwigkirchplatz - Suche ab 2 Zi'}
+{'display': 'NEUTauschwohnung: 3 Zimmer-Altbau in beliebtem Kreuzberger Kiez Nähe Lausi'}
+{'display': 'Super schöne 4 Zimmer Wohnung direkt in der Kantstraße. Fußläufig die besten Restaurants und shops'}
+{'display': 'NEUEsmarchstraße 1, 10407 Berlin'}
+{'display': 'NEURepräsentative Wohnung Nähe Wittenbergplatz'}
+{'display': '** Wunderschöne 3,5-Zimmer Wohnung mit Terrasse nähe Steglitz - 3 Jahre befristet**'}
+{'display': 'Tauschwohnung: Suche 3 Zimmer ab 80m², biete 4 Zimmer Bötzowkiez, AB, 130qm'}
+{'display': 'Stilvoll möblierte Wohnung in bester Ku´damm Lage'}
+{'display': 'Wohnungstausch: Rinkartstraße 3'}
+{'description': '1.200 €\nKaltmiete\n111 m²\nWohnfläche\n3\nZi.'}
+{'description': '13.500 €\nKaltmiete\n361 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '4.200 €\nKaltmiete\n206 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '850 €\nKaltmiete\n93 m²\nWohnfläche\n3\nZi.'}
+{'description': '600 €\nKaltmiete\n94 m²\nWohnfläche\n3\nZi.'}
+{'description': '2.610 €\nKaltmiete\n174 m²\nWohnfläche\n5\nZi.\nBalkon/Terrasse'}
+{'description': '2.400 €\nKaltmiete\n123,2 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.100 €\nKaltmiete\n110 m²\nWohnfläche\n3\nZi.'}
+{'description': '3.500 €\nKaltmiete\n150 m²\nWohnfläche\n3,5\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '2.529 €\nKaltmiete\n134,02 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.052 €\nKaltmiete\n105 m²\nWohnfläche\n3,5\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '1.047 €\nKaltmiete\n105 m²\nWohnfläche\n4,5\nZi.\nEinbaukücheGäste-WCAufzug'}
+{'description': '600 €\nKaltmiete\n100 m²\nWohnfläche\n3\nZi.\nKeller'}
+{'description': '3.310 €\nKaltmiete\n107 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '2.000 €\nKaltmiete\n119 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.540 €\nKaltmiete\n111,48 m²\nWohnfläche\n3\nZi.\nEinbaukücheKellerGäste-WC...'}
+{'description': '1.690 €\nKaltmiete\n105,17 m²\nWohnfläche\n3,5\nZi.\nBalkon/TerrasseKellerGäste-WC'}
+{'description': '1.208 €\nKaltmiete\n130 m²\nWohnfläche\n4\nZi.\nBalkon/Terrasse'}
+{'description': '2.395 €\nKaltmiete\n94 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '866 €\nKaltmiete\n100 m²\nWohnfläche\n3\nZi.'}
+{'adress': 'Schwartzkopffstraße 6, Mitte (Ortsteil), Berlin'}
+{'adress': 'Halensee, Berlin'}
+{'adress': 'Zimmerstraße 97c, Mitte (Ortsteil), Berlin'}
+{'adress': 'Neue Bahnhofstraße 31, Friedrichshain, Berlin'}
+{'adress': 'Belziger Str. 41, Schöneberg, Berlin'}
+{'adress': 'Schöneberg, Berlin'}
+{'adress': 'Dolziger Straße 31, Friedrichshain, Berlin'}
+{'adress': 'Pestalozzistraße 78, Charlottenburg, Berlin'}
+{'adress': 'Prenzlauer Berg, Berlin'}
+{'adress': 'Hedwig-Porschütz-Straße 12, Moabit, Berlin'}
+{'adress': 'Mitte (Ortsteil), Berlin'}
+{'adress': 'Wilmersdorf, Berlin'}
+{'adress': 'Kreuzberg, Berlin'}
+{'adress': 'Kantstraße 105, Charlottenburg, Berlin'}
+{'adress': 'Prenzlauer Berg, Berlin'}
+{'adress': 'Schöneberg, Berlin'}
+{'adress': 'Marschnerstraße 16, Lichterfelde, Berlin'}
+{'adress': 'Prenzlauer Berg, Berlin'}
+{'adress': 'Charlottenburg, Berlin'}
+{'adress': 'Rinkartstraße 3, Baumschulenweg, Berlin'}

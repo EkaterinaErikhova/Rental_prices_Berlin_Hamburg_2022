@@ -1,0 +1,181 @@
+{'display': '3-Zimmer-Penthousewohnung direkt am Baakenhafen'}
+{'display': ''}
+{'display': 'NEUErstbezug // 4,5-Zimmer- Stadthaus in ruhiger Seitenstraße'}
+{'display': '**ERSTBEZUG** Moderne 4-Zimmer-Maisonettewohnung mit Loft-Charakter in Lurup/Altona'}
+{'display': '**ERSTBEZUG** Doppelhaushälfte mit 4 1/2 Zimmern, EBK und Terrasse mit Garten in Lurup/Altona'}
+{'display': 'Elegantes Wohnen am Heine-Park'}
+{'display': 'Top-modernisierte 4,5-Zimmer-Wohnung mit neuer EBK, 2 Bädern, Süd-Loggia und eigenem TG-Stellplatz'}
+{'display': 'NEUQuartier "Sophienterrassen" / Exklusives Wohnen...'}
+{'display': 'NEUModernes Wohnen in den Wallhöfe: Großzügige 3-ZImmer Wohnung mit Balkon'}
+{'display': 'NEUMietwohnung im Rothenbaum-Palais'}
+{'display': 'NEUIndividuelles Wohnen in HH-Popenbüttel'}
+{'display': 'NEUTraumhafte Wohnung mit Weitblick!'}
+{'display': 'Hochwertig sanierte Wohnung im Zweifamilienhaus mit Garten'}
+{'display': 'NEUMöblierte Design-Wohnung mit traumhaftem Hafenpanorama'}
+{'display': 'Moderne Endetagenwohnung mit einzigartiger Dachterrasse in Südlage!'}
+{'display': 'Exklusive Mietwohnungen in Othmarschen'}
+{'display': 'Lichtdurchflutete 3-Zimmer Wohnung'}
+{'display': 'NEUSonne, Mond und Sterne: Traumhafte DG-Wohnung mit großer Dachterrasse. Tolle Ausstattung!'}
+{'display': 'Hochwertige 3-Zimmer-Wohnung mit Fahrstuhl in Hamburg - Othmarschen'}
+{'display': 'Schöne, geräumige drei Zimmer Wohnung in Hamburg in direkter Alsterlage'}
+{'display': 'NEUBlankenese ! Nette, helle 3 Zi- Wohnung in 2 Familienhaus, 2 Dachterrassen, Vollbad, Einbauküche'}
+{'description': '2.995 €\nKaltmiete\n166,1 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbauküche...'}
+{'description': '2.395 €\nKaltmiete\n126,73 m²\nWohnfläche\n4,5\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '1.650 €\nKaltmiete\n93 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC'}
+{'description': '1.950 €\nKaltmiete\n113 m²\nWohnfläche\n4,5\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC'}
+{'description': '3.300 €\nKaltmiete\n164 m²\nWohnfläche\n3\nZi.\nEinbaukücheKellerGäste-WC...'}
+{'description': '1.740 €\nKaltmiete\n104 m²\nWohnfläche\n4,5\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '4.385 €\nKaltmiete\n208,61 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '1.599 €\nKaltmiete\n131,06 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '4.220 €\nKaltmiete\n185,9 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseAufzug'}
+{'description': '1.400 €\nKaltmiete\n140 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbauküche'}
+{'description': '1.333,91 €\nKaltmiete\n90,53 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '4.250 €\nKaltmiete\n230 m²\nWohnfläche\n7\nZi.\nBalkon/TerrasseGartenKeller...'}
+{'description': '3.978 €\nKaltmiete\n183 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC'}
+{'description': '1.200 €\nKaltmiete\n116 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '1.285 - 3.910 €\nKaltmiete\n45,30 - 134,75 m²\nWohnfläche\n01.10.2022\nBezugsfrei ab\n360°\nZum Projekt'}
+{'description': '1.200 €\nKaltmiete\n93 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.701 €\nKaltmiete\n111 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '2.150 €\nKaltmiete\n110,35 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseAufzug'}
+{'description': '3.850 €\nKaltmiete\n147 m²\nWohnfläche\n3,5\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.178 €\nKaltmiete\n90 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbauküche'}
+{'adress': 'Versmannstraße 16, HafenCity, Hamburg'}
+{'adress': 'Stellingen, Hamburg'}
+{'adress': 'Lurup, Hamburg'}
+{'adress': 'Lurup, Hamburg'}
+{'adress': 'Ottensen, Hamburg'}
+{'adress': 'Rissener Dorfstraße 31, Rissen, Hamburg'}
+{'adress': 'Harvestehuder Stieg 7, Harvestehude, Hamburg'}
+{'adress': 'Hütten 95 C, Neustadt, Hamburg'}
+{'adress': 'Rotherbaum, Hamburg'}
+{'adress': 'Emekesweg 39, Poppenbüttel, Hamburg'}
+{'adress': 'Diekmoorweg 40, Langenhorn, Hamburg'}
+{'adress': 'Osdorf, Hamburg'}
+{'adress': 'Altona-Altstadt, Hamburg'}
+{'adress': 'Wilstorf, Hamburg'}
+{'adress': 'Albertiweg 1a, Othmarschen, Hamburg'}
+{'adress': 'Holtenklinker Str. 36, Bergedorf (Ortsteil), Hamburg'}
+{'adress': 'Alsterberg 20a, Alsterdorf, Hamburg'}
+{'adress': 'Groß Flottbek, Hamburg'}
+{'adress': 'Auguststraße 12, Uhlenhorst, Hamburg'}
+{'adress': 'Am Klingenberg 34, Blankenese, Hamburg'}
+{'display': 'Großzügige Altbau-Wohnung mit Blick zum Leinpfadkanal zur Miete (Whg 3)'}
+{'display': 'NEUExklusives Wohnen am Alsterlauf'}
+{'display': 'Den Hafen fest im Blick: Exklusive 3 Zimmer-Wohnung in Övelgönne'}
+{'display': 'All in, all drinn – Vollmöblierte 3 Zimmer WHG, ca. 95,00 m², Balkon und TG STP in Altona Altstadt'}
+{'display': '4-Zimmer-Wohnung mit einer pfiffigen Aufteilung und dem gewissen "Etwas"'}
+{'display': 'Gut geschnittene 3-Zi.-Wohnung mit Südwestbalkon in ruhiger Lage'}
+{'display': '!! Erstbezug nach Sanierung !!'}
+{'display': 'NEUStilvolle 4-Zimmer-Hochparterre-Wohnung mit Einbauküche in Rotherbaum, Hamburg'}
+{'display': 'NEUHelle 3-Zimmer-DG-Wohnung mit großer Dachterasse, Erstbezug nach umfassender Renovierung'}
+{'display': 'HH Niendorf - 3.5 Zimmer Wohnung ca. 90m2'}
+{'display': 'Einzigartige Dachgeschosswohnung in Winterhude fußläufig zur Alster'}
+{'display': 'Tauschwohnung: Tausche ungewöhnliche 120qm Wohnung in Altona gegen Größere'}
+{'display': 'Tauschwohnung: Einfamilienhaus mit Garten'}
+{'display': 'Wohntraum im Neubau! 3-Zimmer-Dachgeschosswohnung im grünen Rahlstedt zu vermieten'}
+{'display': 'Schöne helle Familienwohnung!'}
+{'display': 'Renovierte 3 Zimmer Wohnung mit Balkon in Hamburg Volksdorf (Walddörfer)'}
+{'display': 'Adresslage in Winterhude mit großem Balkon, Stellplatz und großzügigem Grundriss!'}
+{'display': 'Großzügige 3 Zi.-Wohnung in beliebter Lage von Volksdorf!'}
+{'display': 'NEUUhlenhorst: 3-Zimmer-Altbauwohnung mit Wohnküche und Balkon'}
+{'display': 'Erdgeschosswohnung mit Süd-Terrasse direkt am Hessepark'}
+{'description': '5.691,67 €\nKaltmiete\n179,79 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '1.900 €\nKaltmiete\n143 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '2.875 €\nKaltmiete\n125 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '2.470 €\nKaltmiete\n95 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.249 €\nKaltmiete\n115 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbauküche'}
+{'description': '1.600 €\nKaltmiete\n104,7 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.500 €\nKaltmiete\n110 m²\nWohnfläche\n3,5\nZi.\nEinbaukücheGäste-WC'}
+{'description': '1.850 €\nKaltmiete\n105 m²\nWohnfläche\n4\nZi.\nEinbaukücheGarten'}
+{'description': '1.750 €\nKaltmiete\n91 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbauküche'}
+{'description': '1.000 €\nKaltmiete\n90 m²\nWohnfläche\n3,5\nZi.\nBalkon/TerrasseEinbauküche'}
+{'description': '4.950 €\nKaltmiete\n267,74 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseKellerGäste-WC...'}
+{'description': '1.150 €\nKaltmiete\n120 m²\nWohnfläche\n4\nZi.\nEinbauküche'}
+{'description': '1.200 €\nKaltmiete\n120 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '1.400 €\nKaltmiete\n100 m²\nWohnfläche\n3\nZi.'}
+{'description': '2.045 €\nKaltmiete\n113,6 m²\nWohnfläche\n4\nZi.'}
+{'description': '1.450 €\nKaltmiete\n106 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '3.180 €\nKaltmiete\n160 m²\nWohnfläche\n5\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.545 €\nKaltmiete\n107 m²\nWohnfläche\n3\nZi.\nBalkon/Terrasse'}
+{'description': '1.450 €\nKaltmiete\n100 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbauküche'}
+{'description': '1.795 €\nKaltmiete\n102 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseAufzug'}
+{'display': 'NEUHahnemannstraße 17A, 20249 Hamburg'}
+{'display': 'Tauschwohnung: lichtdurchflutete Neubauwohnung mit zwei Dachterrassen'}
+{'display': 'Moderne Endetagenwohnung mit Galerie am Rotherbaum!'}
+{'display': 'Moderne 4-Zimmer Wohnung in St.Georg'}
+{'display': 'Wunderschöne 4-Zimmer-Penthouse-Wohnung mit Balkon und Einbauküche in Groß Flottbek, Hamburg'}
+{'display': 'NEUTauschwohnung: 124m2 Haus mit Garten in Hamburg Altona'}
+{'display': 'Exklusives Wohnen mit moderner Ausstattung'}
+{'display': 'NEUTraumhafte 4- Zimmer Wohnung - in Elbnähe!'}
+{'display': 'NEULuftig, frei und unbeschwert: Möbliertes 3-4 Zi. Toproof im Sophienpalais, Concierge, SPA & Fitness'}
+{'display': 'NEUSt. Georg an der Lange Reihe - helle Loft-Wohnung mit Dachterrasse + 2 Balkone, Fahrstuhl, TG-Platz'}
+{'display': 'Willkommen im neuen Zuhause'}
+{'display': 'NEUWillkommen in den Stadthöfen – Exklusive 4-Zimmer-Wohnung mit Fleetblick!'}
+{'display': 'Schöne Wohnung in Natur- und Stadtnähe ohne Provision'}
+{'display': 'Wohnungstausch: Ulmenstraße 26'}
+{'display': 'Wohnungstausch: Mottenburger Twiete 16'}
+{'display': 'Wohnungstausch: Volksdorfer Weg 22'}
+{'display': 'Wohnungstausch: Opitzstraße 36'}
+{'display': 'Moderne 3-Zimmer Neubauwohnung in St.Georg'}
+{'display': 'Moderne 3 Zimmerwohnung in Hammerbrook'}
+{'display': 'Ansprechende 3 Zimmer Wohnung in Othmarschen'}
+{'description': '2.653 €\nKaltmiete\n137 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.549 €\nKaltmiete\n98 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '4.140 €\nKaltmiete\n186 m²\nWohnfläche\n4\nZi.\nEinbaukücheGäste-WCAufzug'}
+{'description': '3.170 €\nKaltmiete\n144 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '2.650 €\nKaltmiete\n140 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.856 €\nKaltmiete\n124 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '1.785 €\nKaltmiete\n124 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.900 €\nKaltmiete\n116,5 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC'}
+{'description': '5.870 €\nKaltmiete\n195,56 m²\nWohnfläche\n4\nZi.\nGäste-WCAufzug'}
+{'description': '1.740 €\nKaltmiete\n120 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.862 €\nKaltmiete\n124,11 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '2.328 €\nKaltmiete\n128,57 m²\nWohnfläche\n4\nZi.\nEinbaukücheGäste-WCAufzug'}
+{'description': '1.300 €\nKaltmiete\n98 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGarten'}
+{'description': '1.450 €\nKaltmiete\n101 m²\nWohnfläche\n4\nZi.\nBalkon/Terrasse'}
+{'description': '1.350 €\nKaltmiete\n90 m²\nWohnfläche\n3\nZi.\nBalkon/Terrasse'}
+{'description': '1.100 €\nKaltmiete\n103 m²\nWohnfläche\n3\nZi.\nBalkon/Terrasse'}
+{'description': '1.000 €\nKaltmiete\n93 m²\nWohnfläche\n3\nZi.\nBalkon/Terrasse'}
+{'description': '2.110 €\nKaltmiete\n96 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '1.700 €\nKaltmiete\n90,43 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.735 €\nKaltmiete\n105,17 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'display': 'Tauschwohnung: Suche kleinere Wohnung in guter Lage'}
+{'display': '***Schöne Familien-Wohnung in Rahlstedt + Maisonette + Wohnen in Parknähe***'}
+{'display': 'Tauschwohnung: Sonnige 3-Zimmer Wohnung mit Garten gegen kleinere Wohnung'}
+{'display': 'Tauschwohnung: Biete 4 Zi. Altbau in Hamburg - suche 4,5-5 Zi. in Hamburg'}
+{'display': 'Stilvolle Altbau-Wohnung in bester Waldrandlage'}
+{'display': 'Großzügige Altbauwohnung mit sonnigen Balkon!'}
+{'display': 'Großzügige Maisonette-Wohnung am Harburger Hafen'}
+{'display': 'Lichtdurchflutete, Zentrale Neubau Wohnung in Bergedorf'}
+{'display': 'Helle 5 Zimmer Wohnung in Barmbek-Süd.'}
+{'display': 'NEUÜber den Dächern Eimsbüttel, 3-Zimmer-Maisonette-Wohnung zu mieten'}
+{'display': 'Neuwertige 6-Zimmer-Maisonette-Wohnung mit 2 Terrassen und 2 Einbauküchen in Billstedt, Hamburg'}
+{'display': 'NEULichtdurchflutete 3,5-Zimmer-Wohnung zzgl. Wintergarten und traumhaftem Elbblick'}
+{'display': 'Sanierte 4-Zimmer-Penthouse-Wohnung mit Balkon und EBK in Rahlstedt, Hamburg'}
+{'display': 'Elbchaussee 353, 22609 Hamburg'}
+{'display': '3-Zimmer-Wohnung im Zylinderviertel'}
+{'display': '**Über den Dächern von Hamburg! Traumhafte 4 Zimmer-Wohnung mit Dachterrasse. **Erstbezug!'}
+{'display': '*Neubau* Schöne 3-Zimmer-Wohnung mit Stellplatz in HH-Eilbek'}
+{'display': 'Traumhafte 3-Zimmer-Wohnung in Hamburg Eilbek'}
+{'display': 'Tauschwohnung: Neubau 3-Zi-Whg. mit 2 Balkonen gegen kleinere in Winterhude'}
+{'display': 'Traumhafte 6-Zimmer Wohnung mit Blick ins Grüne in Hamburg-Sinstorf, Erstbezug nach Renovierung'}
+{'description': '1.500 €\nKaltmiete\n100 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseKeller'}
+{'description': '1.155 €\nKaltmiete\n102,28 m²\nWohnfläche\n3\nZi.\nBalkon/Terrasse'}
+{'description': '1.640 €\nKaltmiete\n133 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseGartenKeller...'}
+{'description': '1.419 €\nKaltmiete\n98 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbauküche'}
+{'description': '2.150 €\nKaltmiete\n160 m²\nWohnfläche\n3\nZi.\nBalkon/Terrasse'}
+{'description': '1.496 €\nKaltmiete\n136 m²\nWohnfläche\n4,5\nZi.\nBalkon/TerrasseKellerGäste-WC...'}
+{'description': '1.703,13 €\nKaltmiete\n118,41 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.500 €\nKaltmiete\n92,7 m²\nWohnfläche\n3\nZi.\nNur hier gefundenBalkon/TerrasseEinbauküche...'}
+{'description': '2.415,53 €\nKaltmiete\n138,03 m²\nWohnfläche\n5\nZi.\nEinbaukücheKellerGäste-WC'}
+{'description': '2.300 €\nKaltmiete\n145 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '2.600 €\nKaltmiete\n160 m²\nWohnfläche\n6\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '2.600 €\nKaltmiete\n158 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '1.490 €\nKaltmiete\n100 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '3.900 €\nKaltmiete\n175 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
+{'description': '1.625,93 €\nKaltmiete\n110,57 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller'}
+{'description': '1.746,42 €\nKaltmiete\n90 m²\nWohnfläche\n4\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.690 €\nKaltmiete\n96,6 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheGäste-WC...'}
+{'description': '1.650 €\nKaltmiete\n96,6 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseGäste-WCAufzug'}
+{'description': '1.463 €\nKaltmiete\n90 m²\nWohnfläche\n3\nZi.\nBalkon/TerrasseEinbaukücheKeller...'}
+{'description': '1.990 €\nKaltmiete\n189 m²\nWohnfläche\n6\nZi.\nBalkon/TerrasseEinbaukücheGarten...'}
